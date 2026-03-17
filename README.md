@@ -1,5 +1,7 @@
-Trabalho Final - Programação Orientada a Objetos
+Trabalho Final - Programação Orientada a Objetos (G.I UFU)
+(NÃO FOI UTILIZADO NENHUM RECURSO DE IA PARA A CRIAÇÂO DO CÓDIGO, O OBJETIVO DO TRABALHO É UNICAMENTE MEU APRENDIZADO) 
 Sistema de gerenciamento de locação de veículos desenvolvido em C# como trabalho final da disciplina de POO.
+
 Conceitos Aplicados
 
 Herança: Classes PessoaFisica e Empresa herdam de Cliente; Automovel, Onibus e Motocicleta herdam de Veiculo
