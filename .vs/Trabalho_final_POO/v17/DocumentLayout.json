@@ -1,0 +1,211 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\amari\\source\\repos\\Trabalho_final_POO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{34E16ACC-9EBF-4343-B5CA-5B1E94036E3D}|Trabalho_final_POO.csproj|c:\\users\\amari\\source\\repos\\trabalho_final_poo\\repositorioclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34E16ACC-9EBF-4343-B5CA-5B1E94036E3D}|Trabalho_final_POO.csproj|solutionrelative:repositorioclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34E16ACC-9EBF-4343-B5CA-5B1E94036E3D}|Trabalho_final_POO.csproj|c:\\users\\amari\\source\\repos\\trabalho_final_poo\\locacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34E16ACC-9EBF-4343-B5CA-5B1E94036E3D}|Trabalho_final_POO.csproj|solutionrelative:locacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34E16ACC-9EBF-4343-B5CA-5B1E94036E3D}|Trabalho_final_POO.csproj|c:\\users\\amari\\source\\repos\\trabalho_final_poo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34E16ACC-9EBF-4343-B5CA-5B1E94036E3D}|Trabalho_final_POO.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34E16ACC-9EBF-4343-B5CA-5B1E94036E3D}|Trabalho_final_POO.csproj|c:\\users\\amari\\source\\repos\\trabalho_final_poo\\repositorioveiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34E16ACC-9EBF-4343-B5CA-5B1E94036E3D}|Trabalho_final_POO.csproj|solutionrelative:repositorioveiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34E16ACC-9EBF-4343-B5CA-5B1E94036E3D}|Trabalho_final_POO.csproj|c:\\users\\amari\\source\\repos\\trabalho_final_poo\\veiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34E16ACC-9EBF-4343-B5CA-5B1E94036E3D}|Trabalho_final_POO.csproj|solutionrelative:veiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34E16ACC-9EBF-4343-B5CA-5B1E94036E3D}|Trabalho_final_POO.csproj|c:\\users\\amari\\source\\repos\\trabalho_final_poo\\empresa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34E16ACC-9EBF-4343-B5CA-5B1E94036E3D}|Trabalho_final_POO.csproj|solutionrelative:empresa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34E16ACC-9EBF-4343-B5CA-5B1E94036E3D}|Trabalho_final_POO.csproj|c:\\users\\amari\\source\\repos\\trabalho_final_poo\\pessoafisica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34E16ACC-9EBF-4343-B5CA-5B1E94036E3D}|Trabalho_final_POO.csproj|solutionrelative:pessoafisica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34E16ACC-9EBF-4343-B5CA-5B1E94036E3D}|Trabalho_final_POO.csproj|c:\\users\\amari\\source\\repos\\trabalho_final_poo\\onibus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34E16ACC-9EBF-4343-B5CA-5B1E94036E3D}|Trabalho_final_POO.csproj|solutionrelative:onibus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34E16ACC-9EBF-4343-B5CA-5B1E94036E3D}|Trabalho_final_POO.csproj|c:\\users\\amari\\source\\repos\\trabalho_final_poo\\motocicleta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34E16ACC-9EBF-4343-B5CA-5B1E94036E3D}|Trabalho_final_POO.csproj|solutionrelative:motocicleta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34E16ACC-9EBF-4343-B5CA-5B1E94036E3D}|Trabalho_final_POO.csproj|c:\\users\\amari\\source\\repos\\trabalho_final_poo\\automovel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34E16ACC-9EBF-4343-B5CA-5B1E94036E3D}|Trabalho_final_POO.csproj|solutionrelative:automovel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34E16ACC-9EBF-4343-B5CA-5B1E94036E3D}|Trabalho_final_POO.csproj|c:\\users\\amari\\source\\repos\\trabalho_final_poo\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34E16ACC-9EBF-4343-B5CA-5B1E94036E3D}|Trabalho_final_POO.csproj|solutionrelative:cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RepositorioVeiculo.cs",
+              "DocumentMoniker": "C:\\Users\\amari\\source\\repos\\Trabalho_final_POO\\RepositorioVeiculo.cs",
+              "RelativeDocumentMoniker": "RepositorioVeiculo.cs",
+              "ToolTip": "C:\\Users\\amari\\source\\repos\\Trabalho_final_POO\\RepositorioVeiculo.cs",
+              "RelativeToolTip": "RepositorioVeiculo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T17:16:35.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RepositorioClientes.cs",
+              "DocumentMoniker": "C:\\Users\\amari\\source\\repos\\Trabalho_final_POO\\RepositorioClientes.cs",
+              "RelativeDocumentMoniker": "RepositorioClientes.cs",
+              "ToolTip": "C:\\Users\\amari\\source\\repos\\Trabalho_final_POO\\RepositorioClientes.cs",
+              "RelativeToolTip": "RepositorioClientes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T17:14:06.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Locacao.cs",
+              "DocumentMoniker": "C:\\Users\\amari\\source\\repos\\Trabalho_final_POO\\Locacao.cs",
+              "RelativeDocumentMoniker": "Locacao.cs",
+              "ToolTip": "C:\\Users\\amari\\source\\repos\\Trabalho_final_POO\\Locacao.cs",
+              "RelativeToolTip": "Locacao.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAswA0AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T17:09:57.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Onibus.cs",
+              "DocumentMoniker": "C:\\Users\\amari\\source\\repos\\Trabalho_final_POO\\Onibus.cs",
+              "RelativeDocumentMoniker": "Onibus.cs",
+              "ToolTip": "C:\\Users\\amari\\source\\repos\\Trabalho_final_POO\\Onibus.cs",
+              "RelativeToolTip": "Onibus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T17:09:42.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Motocicleta.cs",
+              "DocumentMoniker": "C:\\Users\\amari\\source\\repos\\Trabalho_final_POO\\Motocicleta.cs",
+              "RelativeDocumentMoniker": "Motocicleta.cs",
+              "ToolTip": "C:\\Users\\amari\\source\\repos\\Trabalho_final_POO\\Motocicleta.cs",
+              "RelativeToolTip": "Motocicleta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T17:09:37.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PessoaFisica.cs",
+              "DocumentMoniker": "C:\\Users\\amari\\source\\repos\\Trabalho_final_POO\\PessoaFisica.cs",
+              "RelativeDocumentMoniker": "PessoaFisica.cs",
+              "ToolTip": "C:\\Users\\amari\\source\\repos\\Trabalho_final_POO\\PessoaFisica.cs",
+              "RelativeToolTip": "PessoaFisica.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T17:05:26.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Empresa.cs",
+              "DocumentMoniker": "C:\\Users\\amari\\source\\repos\\Trabalho_final_POO\\Empresa.cs",
+              "RelativeDocumentMoniker": "Empresa.cs",
+              "ToolTip": "C:\\Users\\amari\\source\\repos\\Trabalho_final_POO\\Empresa.cs",
+              "RelativeToolTip": "Empresa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T17:05:24.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\amari\\source\\repos\\Trabalho_final_POO\\Cliente.cs",
+              "RelativeDocumentMoniker": "Cliente.cs",
+              "ToolTip": "C:\\Users\\amari\\source\\repos\\Trabalho_final_POO\\Cliente.cs",
+              "RelativeToolTip": "Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T17:05:18.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Automovel.cs",
+              "DocumentMoniker": "C:\\Users\\amari\\source\\repos\\Trabalho_final_POO\\Automovel.cs",
+              "RelativeDocumentMoniker": "Automovel.cs",
+              "ToolTip": "C:\\Users\\amari\\source\\repos\\Trabalho_final_POO\\Automovel.cs",
+              "RelativeToolTip": "Automovel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T17:05:16.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\amari\\source\\repos\\Trabalho_final_POO\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\amari\\source\\repos\\Trabalho_final_POO\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAIAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T17:05:11.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Veiculo.cs",
+              "DocumentMoniker": "C:\\Users\\amari\\source\\repos\\Trabalho_final_POO\\Veiculo.cs",
+              "RelativeDocumentMoniker": "Veiculo.cs",
+              "ToolTip": "C:\\Users\\amari\\source\\repos\\Trabalho_final_POO\\Veiculo.cs",
+              "RelativeToolTip": "Veiculo.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAgwAwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T17:05:06.208Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

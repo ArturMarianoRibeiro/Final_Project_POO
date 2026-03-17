@@ -1,0 +1,4 @@
+﻿interface ISeguravel
+{
+    double CalcularSeguro();
+}
